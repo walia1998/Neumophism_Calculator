@@ -112,3 +112,32 @@ box-shadow: 5px 5px 10px rgba(0,0,0,0.1), -5px -5px 10px #fff;
     background: #33393e ;
     box-shadow: 15px 15px 20px rgba(0,0,0,0.25), -15px -15px 20px rgba(255, 255, 255,0.1);
 }
+
+.dark .Calculator .buttons span {
+    color: #eee;
+    border: 2px solid #333;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.25), -5px -5px 10px rgba(255, 255, 255,0.1);
+}
+
+.dark .Calculator .buttons span:active {
+    box-shadow: inset 5px 5px 10px rgba(0,0,0,0.25), inset -5px -5px 10px rgba(255, 255, 255,0.1);
+}
+
+
+.dark .Calculator .buttons span#clear,
+.dark .Calculator .buttons span#plus,
+.dark .Calculator .buttons span#equal{
+   border: solid 2px #333;
+}
+
+.dark .Calculator .buttons span#clear:active,
+.dark .Calculator .buttons span#plus:active,
+.dark .Calculator .buttons span#equal:active {
+    box-shadow: inset  5px 10px rgba(0,0,0,0.1);
+}
+
+.dark .toggleBtn {
+    background: #edf1f4;
+    border: 2px solid #333;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.25), -5px -5px 10px rgba(255, 255, 255,0.25);
+}
