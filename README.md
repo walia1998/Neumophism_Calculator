@@ -27,7 +27,7 @@ Neumorphism-Calculator/
 ## How to Use
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/neumorphism-calculator.git
+   git clone https://github.com/walia1998/Neumophism_Calculator/tree/main
    ```
 2. **Open the `index.html` file in a browser.**
 3. Click the buttons to perform calculations.
@@ -72,5 +72,5 @@ Neumorphism-Calculator/
 This project is **open-source** and free to use.
 
 ---
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Ashish Walia
 
